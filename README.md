@@ -1,2 +1,2 @@
 # todo_js
-To Do com Javascript puro
+To Do com Javascript básico
